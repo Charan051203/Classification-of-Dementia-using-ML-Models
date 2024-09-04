@@ -1,4 +1,4 @@
-Classification of Dementia Using Various ML Models with LIME and SHAP Interpretation
+Classification of Dementia Using Various ML Models with LIME and SHAP Interpretation 
 
 This repository contains the implementation of a project focused on the classification of dementia using multiple Machine Learning (ML) models. The project explores various classification algorithms to predict dementia and further interprets the model predictions using Local Interpretable Model-Agnostic Explanations (LIME) and SHapley Additive exPlanations (SHAP).
 
